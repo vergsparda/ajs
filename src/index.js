@@ -8,3 +8,5 @@ function info() {
 export default {
   info
 };
+
+// some code;
